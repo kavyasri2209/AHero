@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/AHero-Landing/sitemap.xml
+Sitemap: https://kavyasri2209.github.io/AHero/sitemap.xml
